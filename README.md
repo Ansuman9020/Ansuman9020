@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](http://www.ansumanportfolio.ml/)
+- 👨‍💻 Find about me at [Personal Portfolio](http://www.ansumanportfolio.ml/)
 
 - 📫 How to reach me **samalansuman2000@gmail.com**
 
